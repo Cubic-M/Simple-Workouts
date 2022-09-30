@@ -1,0 +1,2 @@
+2201
+"d":"Famous workoutroutine, working the fundamentals!","du":600,"id":9,"n":"Around the world","t":"Chest Back","l":[{"r":5,"t":1},{"du":30,"n":"Push Ups","rm":false,"r":10,"t":2},{"du":30,"n":"Pullups ","rm":false,"r":10,"t":2},{"du":30,"n":"Dips","rm":false,"r":10,"t":2},{"du":30,"n":"Rest","rm":false,"r":10,"t":2}],"wt":1}
